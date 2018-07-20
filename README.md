@@ -20,6 +20,16 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 3. Explore the provided code, and make start making a plan to implement the required features in three areas: responsive design, accessibility and offline use.
 4. Write code to implement the updates to get this site on its way to being a mobile-ready website.
 
+## Features
+
+- View all restaurants
+- View restaurants for a specific district or cuisine
+- View details to a restaurant like opening hours and reviews
+- Write reviews for a restaurant
+- View already loaded pages also in offline mode
+- Accessibility: Use the app with screen reader or keyboard-only
+
+
 ### Note about ES6
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
